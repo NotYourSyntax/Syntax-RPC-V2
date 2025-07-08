@@ -61,8 +61,10 @@ Create or edit `config.json` file with the following content (replace the token 
 }
 
 ## 🚀 Run
+
 Run the main script with:
 
+```bash
 python main.py
 Made with 🧠 by Syntax X Ghosty.
 Enjoy your custom rotating Discord presence! 🎉
