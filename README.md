@@ -58,7 +58,8 @@ Create or edit `config.json` file with the following content (replace the token 
       "name": "Syntax On Top"
     }
   ]
-}
+} 
+```
 
 ## 🚀 Run
 
@@ -68,3 +69,16 @@ Run the main script with:
 python main.py
 Made with 🧠 by Syntax X Ghosty.
 Enjoy your custom rotating Discord presence! 🎉
+
+👤 Author
+GhoSty X SynTax | [ Async Development ]
+Discord: @ghostyjija @terrifiying
+Support Server: Join Here
+
+🤝 Contributing
+Contributions, issue reports, and feature suggestions are welcome!
+Feel free to join our Discord community for discussions and support.
+
+⚠️ Important Notices
+🚫 Re-Selling or Re-distributing this code will result in a ban.
+⚠️ Use this project responsibly. The author is not responsible for any misuse or violations of Discord's Terms of Service.
