@@ -1,0 +1,33 @@
+{
+  "token": "Token",
+  "status": "dnd",
+  "activities": [
+    {
+      "type": 1,
+      "url": "https://www.twitch.tv/Syntax",
+      "details": "! Syntax 🥀",
+      "state": "Maybe a dev?",
+      "large_image": "mp:emojis/1392073935243317268",
+      "large_text": "Code Wizard",
+      "name": "Coding Adventures"
+    },
+    {
+      "type": 1,
+      "url": "https://www.twitch.tv/Syntax",
+      "details": "I Love Athy <3",
+      "state": "She is mine",
+      "large_image": "mp:emojis/1392070651661123615",
+      "large_text": "Syntax Love Athy",
+      "name": "Syntax X Athy"
+    },
+    {
+      "type": 1,
+      "url": "https://www.twitch.tv/Syntax",
+      "details": "Syntax Rulez Cord",
+      "state": "Exploiting 1007",
+      "large_image": "mp:emojis/1392066194302963752",
+      "large_text": "Be aware",
+      "name": "Syntax On Top"
+    }
+  ]
+}
