@@ -22,8 +22,10 @@ Made with 🧠 by Syntax X Ghosty.
    ```bash
    pip install -r requirements.txt
 ## ⚙️ Configuration
-Create or edit config.json file with the following content (replace the token with your own Discord token):
 
+Create or edit `config.json` file with the following content (replace the token with your own Discord token):
+
+```json
 {
   "token": "YOUR_DISCORD_TOKEN_HERE",
   "status": "dnd",
@@ -57,6 +59,7 @@ Create or edit config.json file with the following content (replace the token wi
     }
   ]
 }
+
 ## 🚀 Run
 Run the main script with:
 
